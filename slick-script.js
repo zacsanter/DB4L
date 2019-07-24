@@ -1,8 +1,6 @@
 jQuery(document).ready(function($){
       $('.testimonial-slider').slick({
-      lazyLoad: 'ondemand'
         infinite: true,
-         dots: true,
        slidesToShow: 3,
         slidesToScroll: 3
         responsive: [
@@ -21,7 +19,7 @@ jQuery(document).ready(function($){
         slidesToShow: 1,
         slidesToScroll: 1
       }
-    }
+    }                            
  ]
       });
       });
