@@ -1,5 +1,5 @@
 jQuery(document).ready(function($){
-$('.responsive').slick({
+$('.testimonial-slider').slick({
   dots: true,
   infinite: false,
   speed: 300,
