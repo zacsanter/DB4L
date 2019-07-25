@@ -1,3 +1,4 @@
+jQuery(document).ready(function($){
 $('.responsive').slick({
   dots: true,
   infinite: true,
@@ -19,3 +20,4 @@ $('.responsive').slick({
     // instead of a settings object
   ]
 });
+ });
