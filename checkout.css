@@ -1,0 +1,59 @@
+.ui-line {
+background:linear-gradient(45deg, #FF350A 0%,#E85109 50%,#FF7902 100%) !important;
+}
+@media (max-width: 374px) {
+.seals.seals-horizontal .seal {
+margin: auto !important;
+margin-right: 5% !important;
+display: inline-block !important;
+}
+}
+.seals.seals-horizontal .seal {
+width:35% !important;
+}
+@media (max-width: 567px) {
+.pure-form button[type="submit"] {
+font-size:138%;
+}
+}
+.pure-form fieldset.fieldset-processor-paypal {
+background-color:#ffffff !important;
+border: none !important;
+}
+ul.order-details li {
+font-size: 125% !important;
+}
+ul.bullets {
+margin: 0 0 1em 0 !important;
+font-size: 100% !important;
+}
+.externalfield .externalfield-title {
+margin: 0.5em 0 0.5em 0 !important;
+}
+aside {
+background-color: #ffffff !important;
+}
+header img {
+max-width:28% !important;
+}
+@media (max-width: 575px) {
+header img {
+max-width:50% !important;
+}
+}
+header h2 {
+color: #353535 !important;
+}
+@media (max-width: 575px) {
+.seals.seals-horizontal {
+margin-top: -2em !important;
+}}
+.boxshot {
+border: none !important;
+}
+body.ui-color-button-gold .pure-form button[type="submit"] {
+border-color: white !important;
+padding-bottom: 13px !important;
+border-radius: 8px !important;
+box-shadow: inset 0px -3px 0px 0px rgba(0,0,0,0.3) !important;
+}
